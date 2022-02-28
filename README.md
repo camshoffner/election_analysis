@@ -84,7 +84,7 @@ For user convenience, the script outputs the results in the terminal window as w
     txt_file.write(largest_county_summary)
 ```
 
-The full script can be found [here](PyPoll_Challenge.py). 
+The full script can be found [here](./PyPoll_Challenge.py). 
 
 ### Voting Results
 * There were 369,711 votes casted in this election. 
@@ -95,7 +95,7 @@ The full script can be found [here](PyPoll_Challenge.py).
 ![Voting Distribution by Candidate](./Resources/VotesByCandidate.png)
 * The winner from these three counties is Diana DeGette. She received 272,892 votes, which is 73.8% of the total votes.
 
-The summary of the votes can be found in [this text file](Analysis/election_analysis.txt).
+The summary of the votes can be found in [this text file](analysis/election_analysis.txt).
 
 
 ## Summary

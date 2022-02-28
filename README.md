@@ -84,15 +84,15 @@ For user convenience, the script outputs the results in the terminal window as w
     txt_file.write(largest_county_summary)
 ```
 
-The full script can be found [here](PyPoll.py). 
+The full script can be found [here](PyPoll_Challenge.py). 
 
 ### Voting Results
 * There were 369,711 votes casted in this election. 
 * The voting distribution by county is as following: 
-[Voting Distribution by County](Resources/VotesByCounty.png)!
+![Voting Distribution by County](./Resources/VotesByCounty.png)
 * From the distribution, Denver County overwhelmingly had the highest votes with 82.8% of the votes. 
 * The voting distribution by candidate is as following:
-[Voting Distribution by Candidate](Resources/VotesByCandidate.png)!
+![Voting Distribution by Candidate](./Resources/VotesByCandidate.png)
 * The winner from these three counties is Diana DeGette. She received 272,892 votes, which is 73.8% of the total votes.
 
 The summary of the votes can be found in [this text file](Analysis/election_analysis.txt).

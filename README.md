@@ -1,7 +1,7 @@
 # PyPoll - Election Audit Analysis
 
 ## Overview of Project
-The only thing more important than voting is the counting of those votes.  An audit of a recent election is underway to ensure the correct candidate won. A comma separated values (CSV) file supplied a complete list of Voter ID, County, and chosen candidate for analysis. This project utilized Python to quickly loop through the data, and provide insights on the outcomes. 
+The only thing more important than voting is the counting of those votes.  An audit of a recent election is underway to ensure the correct candidate won. A comma separated values (CSV) file supplied a complete list of Voter ID, County, and chosen candidate for analysis. 
 
 ### Purpose
 Using Python, the election results will be analyzed and report the total votes and the votes' distribution by candidate and county. From the calculations, the county and the candidate with the most votes can be identified. Ideally, the code can be used for future audits with slight modifications. 
